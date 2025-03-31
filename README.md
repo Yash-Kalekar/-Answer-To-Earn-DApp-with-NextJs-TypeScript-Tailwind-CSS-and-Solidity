@@ -7,7 +7,7 @@ To run the demo follow these steps:
    ```sh
 
 
-   git clone https://github.com/Yash-Kalekar/-Answer-To-Earn-DApp-with-NextJs-TypeScript-Tailwind-CSS-and-Solidity.git
+   git clone https://github.com/Yash-Kalekar/Answer-To-Earn-DApp-with-NextJs-TypeScript-Tailwind-CSS-and-Solidity.git
    cd answerToEarn # Navigate to the new folder.
    ```
 
